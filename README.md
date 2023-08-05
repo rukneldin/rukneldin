@@ -18,7 +18,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently seeking an internship 
+- 🔭 I’m currently learning new things
 - 🌱 I’m currently learning flutter dart, React Native
 - 💬 Talk to me about Python, Java, C, C#, HTML5, OOP.
 
